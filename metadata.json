@@ -1,0 +1,5 @@
+{
+  "name": "Strikers Manager",
+  "description": "Um simulador de futebol completo com gerenciamento de times e partidas em tempo real.",
+  "requestFramePermissions": []
+}
